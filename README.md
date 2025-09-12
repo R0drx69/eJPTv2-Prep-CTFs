@@ -13,11 +13,11 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 
 | Lab / Machine | Skills Practiced | Tools Used |
 |---------------|-----------------|------------|
-| Basic PenTesting | Bruteforce, hash cracking, service enumeration, Linux enumeration, Linux privilege escalation | Nmap, Gobuster, Hydra, John the Ripper, Netcat, Python, Bash |
+| [Basic PenTesting](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BasicPentesting.md) | Brute-force SSH login, Samba enumeration, web discovery, and privilege escalation via readable SSH key | Nmap, Gobuster, enum4linux, Hydra, John the Ripper, LinPEAS, SSH |
 | Pickle Rick | Web enumeration, web exploitation | Nmap, Gobuster, Burp Suite |
-| RootMe | Web enumeration, msfvenom, privilege escalation | Nmap, Burp Suite, Metasploit, Netcat, Python |
+| [RootMe](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/RootMe.md) | File upload bypass via PHP reverse shell, limited shell acquisition, and privilege escalation using SUID Python with GTFOBins | Nmap, Gobuster, PHP Reverse Shell, Netcat, Python, GTFOBins |
 | SimpleCTF | Enumeration, vulnerability exploitation, privilege escalation | Nmap, Gobuster, Burp Suite, Netcat, Python |
-| Bounty Hacker | Bruteforcing, privilege escalation | Nmap, Hydra, SSH, GTFOBins |
+| [Bounty Hacker](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BountyHacker.md) | Initial access via anonymous FTP, SSH brute-force with discovered passwords, and privilege escalation using SUID tar binary via GTFOBins | Nmap, FTP, Hydra, SSH, GTFOBins, Bash |
 | LazyAdmin | Enumeration, exploitation, privilege escalation | Nmap, Gobuster, Netcat, Bash, Python |
 | c4ptur3-th3-fl4g | Encoding/decoding, hashes | CyberChef, Python |
 | Skynet | SMB enumeration, web exploitation, privilege escalation | Nmap, SMB client, Burp Suite, Python |
@@ -25,7 +25,7 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 | ToolsRus | Bruteforcing, web exploitation | Nmap, Hydra, Burp Suite |
 | Wgel CTF | Enumeration, SSH persistence, privilege escalation | Nmap, SSH, Netcat, Bash |
 | Startup | Steganography (optional), bruteforcing, privilege escalation, log analysis, web exploitation, cron | Nmap, Hydra, Python, Bash, Steghide |
-| Brooklyn Nine-Nine | Steganography, privilege escalation, web enumeration | Nmap, SSH, Netcat, Python |
+| [Brooklyn Nine-Nine](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BrooklynNineNine.md) | Anonymous FTP login, SSH brute-force, and privilege escalation via sudo GTFOBins | Nmap, FTP, SSH, Hydra, GTFOBins |
 | Chill Hack | Privilege escalation, web exploitation, evasion, pivoting, SQL injection, steganography | Nmap, Gobuster, Burp Suite, SQL tools, Python |
 | GamingServer | SSH key cracking, web enumeration, privilege escalation | Nmap, SSH, Netcat, Python |
 | [MrRobot](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/MrRobot.md) | WordPress enumeration, user discovery via Burp + fsocity.dic, password brute-force, PHP reverse shell via 404.php, shell stabilization with Python PTY, MD5 hash cracking, SUID nmap privilege escalation | Nmap, Gobuster, Burp Suite, Hydra, WPScan, wget, Netcat, PHP, Python, CrackStation/John the Ripper, GTFOBins |
