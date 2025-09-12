@@ -28,7 +28,7 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 | Brooklyn Nine-Nine | Steganography, privilege escalation, web enumeration | Nmap, SSH, Netcat, Python |
 | Chill Hack | Privilege escalation, web exploitation, evasion, pivoting, SQL injection, steganography | Nmap, Gobuster, Burp Suite, SQL tools, Python |
 | GamingServer | SSH key cracking, web enumeration, privilege escalation | Nmap, SSH, Netcat, Python |
-| MrRobot | WordPress enumeration, user discovery via Burp + fsocity.dic, password brute-force, PHP reverse shell via 404.php, shell stabilization with Python PTY, MD5 hash cracking, SUID nmap privilege escalation | Nmap, Gobuster, Burp Suite, Hydra, WPScan, wget, Netcat, PHP, Python, CrackStation/John the Ripper, GTFOBins |
+| [MrRobot](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/MrRobot.md) | WordPress enumeration, user discovery via Burp + fsocity.dic, password brute-force, PHP reverse shell via 404.php, shell stabilization with Python PTY, MD5 hash cracking, SUID nmap privilege escalation | Nmap, Gobuster, Burp Suite, Hydra, WPScan, wget, Netcat, PHP, Python, CrackStation/John the Ripper, GTFOBins |
 
 ### HackTheBox Labs
 
