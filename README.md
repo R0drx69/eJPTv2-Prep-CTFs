@@ -21,12 +21,12 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 | LazyAdmin | Enumeration, exploitation, privilege escalation | Nmap, Gobuster, Netcat, Bash, Python |
 | c4ptur3-th3-fl4g | Encoding/decoding, hashes | CyberChef, Python |
 | Skynet | SMB enumeration, web exploitation, privilege escalation | Nmap, SMB client, Burp Suite, Python |
-| Ignite | Web exploitation, privilege escalation | Nmap, Gobuster, PHP reverse shell, Netcat, Python |
+| [Ignite](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/Ignite.md) | Exploitation of Fuel CMS via known CVE, reverse shell acquisition, and privilege escalation using root credentials from database.php | Nmap, Gobuster, PHP Reverse Shell, Netcat, Python |
 | ToolsRus | Bruteforcing, web exploitation | Nmap, Hydra, Burp Suite |
 | Wgel CTF | Enumeration, SSH persistence, privilege escalation | Nmap, SSH, Netcat, Bash |
 | Startup | Steganography (optional), bruteforcing, privilege escalation, log analysis, web exploitation, cron | Nmap, Hydra, Python, Bash, Steghide |
 | [Brooklyn Nine-Nine](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BrooklynNineNine.md) | Anonymous FTP login, SSH brute-force, and privilege escalation via sudo GTFOBins | Nmap, FTP, SSH, Hydra, GTFOBins |
-| Chill Hack | Privilege escalation, web exploitation, evasion, pivoting, SQL injection, steganography | Nmap, Gobuster, Burp Suite, SQL tools, Python |
+| [Chill Hack](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/ChillHack.md) | SQL injection, filter bypass, reverse shell, lateral movement via MySQL & steganography, Docker exploitation, and privilege escalation | Nmap, Gobuster, FTP clients, Web tools, SQL tools, Steghide, zip2john, John the Ripper, Python3, Docker |
 | GamingServer | SSH key cracking, web enumeration, privilege escalation | Nmap, SSH, Netcat, Python |
 | [MrRobot](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/MrRobot.md) | WordPress enumeration, user discovery via Burp + fsocity.dic, password brute-force, PHP reverse shell via 404.php, shell stabilization with Python PTY, MD5 hash cracking, SUID nmap privilege escalation | Nmap, Gobuster, Burp Suite, Hydra, WPScan, wget, Netcat, PHP, Python, CrackStation/John the Ripper, GTFOBins |
 
