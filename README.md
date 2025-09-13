@@ -14,7 +14,7 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 | Lab / Machine | Skills Practiced | Tools Used |
 |---------------|-----------------|------------|
 | [Basic PenTesting](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BasicPentesting.md) | Brute-force SSH login, Samba enumeration, web discovery, and privilege escalation via readable SSH key | Nmap, Gobuster, enum4linux, Hydra, John the Ripper, LinPEAS, SSH |
-| [Pickle Rick](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/PickleRick.md) | Web enumeration, web exploitation | Nmap, Gobuster, Burp Suite |
+| [Pickle Rick](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/PickleRick.md) | Web Exploitation, Command Execution, File Access, Privilege Escalation (sudo less → reading root files) | Nmap, Gobuster, Nikto, browser, terminal (bash), sudo, less |
 | [RootMe](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/RootMe.md) | File upload bypass via PHP reverse shell, limited shell acquisition, and privilege escalation using SUID Python with GTFOBins | Nmap, Gobuster, PHP Reverse Shell, Netcat, Python, GTFOBins |
 | SimpleCTF | Enumeration, vulnerability exploitation, privilege escalation | Nmap, Gobuster, Burp Suite, Netcat, Python |
 | [Bounty Hacker](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BountyHacker.md) | Initial access via anonymous FTP, SSH brute-force with discovered passwords, and privilege escalation using SUID tar binary via GTFOBins | Nmap, FTP, Hydra, SSH, GTFOBins, Bash |
