@@ -18,7 +18,7 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 | [RootMe](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/RootMe.md) | File upload bypass via PHP reverse shell, limited shell acquisition, and privilege escalation using SUID Python with GTFOBins | Nmap, Gobuster, PHP Reverse Shell, Netcat, Python, GTFOBins |
 | [SimpleCTF](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/SimpleCTF.md) | Port scanning, FTP enumeration, web discovery, SQL Injection exploitation, SSH access, privilege escalation via sudo/vim | Nmap, Gobuster, ExploitDB, Python2, SSH, GTFOBins |
 | [Bounty Hacker](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BountyHacker.md) | Initial access via anonymous FTP, SSH brute-force with discovered passwords, and privilege escalation using SUID tar binary via GTFOBins | Nmap, FTP, Hydra, SSH, GTFOBins, Bash |
-| LazyAdmin | Enumeration, exploitation, privilege escalation | Nmap, Gobuster, Netcat, Bash, Python |
+| [LazyAdmin](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/LazyAdmin.md) | Enumeration, exploitation, privilege escalation | Nmap, Gobuster, Netcat, Bash, Python |
 | c4ptur3-th3-fl4g | Encoding/decoding, hashes | CyberChef, Python |
 | Skynet | SMB enumeration, web exploitation, privilege escalation | Nmap, SMB client, Burp Suite, Python |
 | [Ignite](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/Ignite.md) | Exploitation of Fuel CMS via known CVE, reverse shell acquisition, and privilege escalation using root credentials from database.php | Nmap, Gobuster, PHP Reverse Shell, Netcat, Python |
