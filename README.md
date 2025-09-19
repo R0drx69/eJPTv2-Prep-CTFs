@@ -20,7 +20,7 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 | [Bounty Hacker](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BountyHacker.md) | Initial access via anonymous FTP, SSH brute-force with discovered passwords, and privilege escalation using SUID tar binary via GTFOBins | Nmap, FTP, Hydra, SSH, GTFOBins, Bash |
 | [LazyAdmin](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/LazyAdmin.md) | Web enumeration, CMS backup disclosure, credential recovery (MD5 cracking), arbitrary file upload (web shell), shell stabilization, sudo-based script exploitation for privilege escalation | Nmap, Gobuster, wget, Netcat (nc), Python (pty), MD5 cracking (CrackStation), sudo, Perl |
 | c4ptur3-th3-fl4g | Encoding/decoding, hashes | CyberChef, Python |
-| Skynet | SMB enumeration, web exploitation, privilege escalation | Nmap, SMB client, Burp Suite, Python |
+| [Skynet](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/Skynet.md) | SMB enumeration, web exploitation, privilege escalation | Nmap, SMB client, Burp Suite, Python |
 | [Ignite](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/Ignite.md) | Exploitation of Fuel CMS via known CVE, reverse shell acquisition, and privilege escalation using root credentials from database.php | Nmap, Gobuster, PHP Reverse Shell, Netcat, Python |
 | ToolsRus | Bruteforcing, web exploitation | Nmap, Hydra, Burp Suite |
 | Wgel CTF | Enumeration, SSH persistence, privilege escalation | Nmap, SSH, Netcat, Bash |
