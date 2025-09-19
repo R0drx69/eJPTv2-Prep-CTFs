@@ -22,7 +22,7 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 | c4ptur3-th3-fl4g | Encoding/decoding, hashes | CyberChef, Python |
 | [Skynet](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/Skynet.md) | Recon; SMB enumeration & anonymous access; credential harvesting; SquirrelMail brute-force; web discovery; RFI → PHP reverse shell; reverse shell hardening; Linux enum; priv-esc via wildcard injection on cron (SUID bash). | Nmap, smbmap, smbclient, whatweb, Gobuster, Hydra, SearchSploit, php-reverse-shell (custom), nano, python3 (http.server, pty), nc (netcat), wget, linpeas.sh, tar, chmod, bash, touch |
 | [Ignite](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/Ignite.md) | Exploitation of Fuel CMS via known CVE, reverse shell acquisition, and privilege escalation using root credentials from database.php | Nmap, Gobuster, PHP Reverse Shell, Netcat, Python |
-| ToolsRus | Bruteforcing, web exploitation | Nmap, Hydra, Burp Suite |
+| [ToolsRus](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/ToolsRus.md) | Bruteforcing, web exploitation | Nmap, Hydra, Burp Suite |
 | Wgel CTF | Enumeration, SSH persistence, privilege escalation | Nmap, SSH, Netcat, Bash |
 | Startup | Steganography (optional), bruteforcing, privilege escalation, log analysis, web exploitation, cron | Nmap, Hydra, Python, Bash, Steghide |
 | [Brooklyn Nine-Nine](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/BrooklynNineNine.md) | Anonymous FTP login, SSH brute-force, and privilege escalation via sudo GTFOBins | Nmap, FTP, SSH, Hydra, GTFOBins |
