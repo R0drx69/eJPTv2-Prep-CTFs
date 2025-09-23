@@ -34,8 +34,8 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 
 | Lab / Machine | Skills Practiced | Tools Used |
 |---------------|-----------------|------------|
-| Pilgrimage | Web exploitation, SQL, privilege escalation | Nmap, Gobuster, Burp Suite, SQL tools |
-| Knife | Web exploitation, privilege escalation | Nmap, Gobuster, Burp Suite, Netcat |
+| [Pilgrimage](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/hackthebox/Pilgrimage.md) | Port scanning, web enumeration, Git repository discovery, ImageMagick arbitrary file read (CVE-2022-44268), credential discovery, SSH access, post-exploration (pspy), binwalk RCE via malwarescan (CVE-2022-4510), privilege escalation to root | Nmap, Gobuster, Git / git-dumper, ImageMagick, pngcrush, CyberChef, SSH, SCP, pspy64, inotifywait, Binwalk, Python3, Netcat (nc) |
+| [Knife](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/hackthebox/Knife.md) | Port scanning, web enumeration, HTTP header analysis, PHP 8.1 RCE (upload backdoor, reverse shell), shell stabilization, privilege escalation via sudo NOPASSWD on knife binary | Nmap, Curl, Python3 (backdoor/revshell scripts), Netcat (nc), SSH, sudo, Knife (binary) |
 | Blue | Vulnerability analysis, exploitation | Nmap, Metasploit, Netcat |
 
 ---
