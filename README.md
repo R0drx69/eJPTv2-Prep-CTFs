@@ -53,7 +53,7 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 
 - **Full TryHackMe Labs Write-Ups:** [TryHackMe Write-Ups]([writeups/tryhackme](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/tryhackme/README.md))  
 - **Full HackTheBox Labs Write-Ups:** [HackTheBox Write-Ups]([writeups/hackthebox](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/hackthebox/README.md))  
-- **Cybersecurity Notes:** [Notion Notes / Personal Resources]([#](https://www.notion.so/Cyber-Security-169921c2b14b80c5ab96f81cba07f17e?pvs=4))  
+- **Cybersecurity Notes:** [Notion Notes / Personal Resources](https://www.notion.so/Cyber-Security-169921c2b14b80c5ab96f81cba07f17e?pvs=4)
 
 ---
 
