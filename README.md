@@ -6,7 +6,16 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 > ⚠️ Note: Flags are **not included**. Only methodology, tools, and skills are documented to maintain the learning experience.
 
 ---
+## 🧠 Skills Practiced
 
+- Penetration Testing & Vulnerability Assessment  
+- Web & Network Security  
+- Enumeration & Exploitation Techniques  
+- Privilege Escalation  
+- Scripting & Automation (Bash, Python)  
+- Tools: Nmap, Gobuster, Hydra, Burp Suite, WPScan, Netcat, PHP, Python, LinPEAS, WinPEAS
+
+---
 ## 🧠 Featured Labs & Writeups
 
 ### TryHackMe Labs
@@ -37,3 +46,22 @@ It contains write-ups, notes, and resources to practice key penetration testing 
 | [Pilgrimage](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/hackthebox/Pilgrimage.md) | Port scanning, web enumeration, Git repository discovery, ImageMagick arbitrary file read (CVE-2022-44268), credential discovery, SSH access, post-exploration (pspy), binwalk RCE via malwarescan (CVE-2022-4510), privilege escalation to root | Nmap, Gobuster, Git / git-dumper, ImageMagick, pngcrush, CyberChef, SSH, SCP, pspy64, inotifywait, Binwalk, Python3, Netcat (nc) |
 | [Knife](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/hackthebox/Knife.md) | Port scanning, web enumeration, HTTP header analysis, PHP 8.1 RCE (upload backdoor, reverse shell), shell stabilization, privilege escalation via sudo NOPASSWD on knife binary | Nmap, Curl, Python3 (backdoor/revshell scripts), Netcat (nc), SSH, sudo, Knife (binary) |
 | [Blue](https://github.com/R0drx69/pentesting-portfolio/blob/main/writeups/hackthebox/Blue.md) | SMB/NetBIOS/RPC enumeration, EternalBlue (MS17-010) remote code execution, Meterpreter session & shell stabilization, obtaining SYSTEM (post-exploitation) | Nmap, Metasploit (msfconsole), Meterpreter |
+
+---
+
+## 🔗 Links & Resources
+
+- **Full TryHackMe Labs Write-Ups:** [TryHackMe Write-Ups](writeups/tryhackme)  
+- **Full HackTheBox Labs Write-Ups:** [HackTheBox Write-Ups](writeups/hackthebox)  
+- **Cybersecurity Notes:** [Notion Notes / Personal Resources](#)  
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: rodrigocuevas.ie@gmail.com  
+- 🔗 LinkedIn: [rodrigocuevasveloso](https://www.linkedin.com/in/rodrigocuevasveloso)  
+- 🐙 GitHub: [R0drx69](https://github.com/R0drx69)  
+
+> Passionate about ethical hacking and continuous learning.
+
